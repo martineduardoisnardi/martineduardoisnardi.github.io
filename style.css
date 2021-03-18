@@ -1,0 +1,36 @@
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(images/pattern.jpeg);
+    text-align: center;
+}
+
+.subtitle {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.coral {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color:skyblue;
+}
+
+p, h4 {
+    font-family: Helvetica;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
